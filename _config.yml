@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Kevin W. Jin"
 title_separator          : "-"
 name                     : &name "Kevin W. Jin"
-description              : &description "PhD Student"
+description              : &description "Research Assistant"
 url                      : https://kevinwjin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kevinwjin/kevinwjin.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Kevin W. Jin"
   avatar           : "profile.png"
-  bio              : "PhD Student"
-  location         : "Location"
+  bio              : "Research Assistant"
+  location         : "Dallas, TX"
   employer         : "UT Southwestern Medical Center"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XiWPysAAAAAJ&hl=en"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/kevinwjin"
+  github           : "kevinwjin"
   google_plus      :
   keybase          :
   instagram        :
