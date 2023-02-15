@@ -5,7 +5,7 @@ excerpt: "Contact me"
 author_profile: true
 ---
 
-Reach me via any of these methods. I will return your inquiry as quickly as I can to the best of my abilities (i.e. within 48 hours). You can also try my legacy contact methods, but please note that I may not have access to them anymore.
+Reach me via any of these methods. I will return your inquiry as quickly as I can (i.e. within 48 hours). You can also try my legacy contact methods, but please note that I may not have access to them anymore.
 
 ## Current contact methods
 
