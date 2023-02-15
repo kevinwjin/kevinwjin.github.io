@@ -8,4 +8,4 @@ date: 2018-04-27
 location: "Baltimore, Maryland"
 ---
 
-Poster presentation given at JHU DREAMS conference, as part of Steven An's group in the Environmental Engineering department in the Bloomberg School of Public Health.
+Poster presentation given at the [JHU DREAMS conference](https://hour.jhu.edu/present/dreams/), as part of Steven An's group in the Environmental Engineering department in the Johns Hopkins Bloomberg School of Public Health.
