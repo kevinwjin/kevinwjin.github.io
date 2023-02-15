@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "General Physics for Physical Science Majors (Active Learning)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2019-physics-teaching
+venue: "Johns Hopkins University, Department of Physics and Astronomy"
+date: 2019-09-01
+location: "Baltimore, Maryland"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Guided flipped classroom problem solving for 50 students; <1% of students were selected as TAs.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
