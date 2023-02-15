@@ -16,4 +16,4 @@ I was born and partially raised in Dallas, TX but spent most of my formative yea
 
 Outside of academia, I am also passionately interested in international relations (particularly East Asian geopolitics), military history, and investigative journalism.
 
-Ways that I add flavor to my life include reading a truly inordinate amount of news and Wikipedia, studying languages (mostly Japanese), constantly trying new recipes, playing video games, and practicing kendo with the [Yale Kendo Club](https://yalekendo.sites.yale.edu/). My favorite publications are *The Economist*, *Reuters*, *The Associated Press*, *BBC News*, *NPR*, *Bloomberg*, and *The New York Times*.
+Ways that I add flavor to my life include reading a truly inordinate amount of news and Wikipedia, studying languages (mostly Japanese), constantly trying new recipes, playing video games, and practicing kendo with the [Yale Kendo Club](https://yalekendo.sites.yale.edu/). My favorite news publications are *The Economist*, *Reuters*, *The Associated Press*, *BBC News*, *NPR*, *Bloomberg*, and *The New York Times*.
