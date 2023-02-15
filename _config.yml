@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Kevin W. Jin"
-  avatar           : "profile.png"
-  bio              : "Pre-doctoral research assistant"
-  location         : "Dallas, TX"
-  employer         : "UT Southwestern Medical Center"
+  avatar           : "profile.jpg"
+  bio              : "PhD student in Computational Biology and Bioinformatics at Yale"
+  location         : "New Haven, CT"
+  employer         : "Yale University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XiWPysAAAAAJ&hl=en"
   email            :
