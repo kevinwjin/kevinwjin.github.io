@@ -1,5 +1,5 @@
 ---
-title: "General Biology I-II"
+title: "AS.020.151-2 General Biology I-II"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-biology-teaching

@@ -1,5 +1,5 @@
 ---
-title: "General Physics for Physical Science Majors (Active Learning)"
+title: "AS.171.107-8 General Physics for Physical Science Majors (Active Learning)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-physics-teaching
