@@ -11,7 +11,7 @@ title                    : "Kevin W. Jin"
 title_separator          : "-"
 name                     : &name "Kevin W. Jin"
 description              : &description "PhD Student"
-url                      : https://kevinwjin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kevinwjin.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kevinwjin/kevinwjin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : Z_OF3uZ_kA4I_1a87de7txPksTBgomRS2ewXK-c3X00
+google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -73,9 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  G-GCQYH1RDZW
+    tracking_id          : G-GCQYH1RDZW
 
 
 # Site Author
@@ -265,6 +265,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
