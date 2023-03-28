@@ -9,9 +9,7 @@ Reach me via any of these methods. I will return your inquiry as quickly as I ca
 
 ## Current contact methods
 
-* School e-mail: username [at] yale.edu
 * Personal e-mail: kevin.defan [at] gmail.com
-* [My Yale student profile]()
 * [Google Scholar](https://scholar.google.com/citations?user=XiWPysAAAAAJ&hl=en)
 
 ## Legacy contact methods

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year PhD student in Yale's [Department of Computational Biology and Bioinformatics](https://cbb.yale.edu/), which is part of the [Combined Program in the Biological and Biomedical Sciences](https://medicine.yale.edu/bbs/) at Yale University.
+I'm a research intern in the [Quantitative Biomedical Research Center](https://qbrc.swmed.edu/) at UT Southwestern Medical Center. In August, I will start my PhD in the [Interdepartmental Program in Computational Biology and Bioinformatics](https://cbb.yale.edu/), which is part of the [Combined Program in the Biological and Biomedical Sciences](https://medicine.yale.edu/bbs/) at Yale University.
 
 My academic interests are diverse and currently include biomedical informatics, deep learning, natural language processing, and wearable devices, particularly as applied to computational psychiatry. Broadly construed, biomedical informatics refers to the computational analysis and statistical interpretation of biological and clinical data on high-performance computing platforms. I have done work on cancer biophysics, molecular radiation oncology, microfluidic single-cell analysis, statistical shape analysis, and electronic health record analysis.
 
@@ -16,4 +16,4 @@ I was born and partially raised in Dallas, TX but spent many of my formative yea
 
 Outside of academia, I am also passionately interested in international relations (particularly East Asian geopolitics), military history, and investigative journalism. My favorite news/opinion publications are *The Economist*, *The New Yorker*, *Reuters*, *The Associated Press*, *BBC News*, *The New York Times*, *Bloomberg*, *The Washington Post*, *NPR*, and *Nikkei Asia*.
 
-Ways that I add flavor to my life include reading a truly inordinate amount of news and Wikipedia, studying languages and cultures (mostly Japanese), constantly trying new recipes, playing video games, and practicing kendo with the [Yale Kendo Club](https://yalekendo.sites.yale.edu/). 
+Ways that I add flavor to my life include reading a truly inordinate amount of news and Wikipedia, studying languages and cultures (mostly Japanese), constantly trying new recipes, playing video games, and practicing kendo.
