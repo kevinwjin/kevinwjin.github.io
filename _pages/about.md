@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research intern in the [Quantitative Biomedical Research Center](https://qbrc.swmed.edu/) at UT Southwestern Medical Center. I also work in the [Department of Mathematical Sciences](https://math.utdallas.edu/) at the University of Texas at Dallas. This fall, I will start my PhD with the [Interdepartmental Program in Computational Biology and Bioinformatics](https://cbb.yale.edu/), which is part of the [Combined Program in the Biological and Biomedical Sciences](https://medicine.yale.edu/bbs/) at Yale University.
+I'm a research intern in the [Quantitative Biomedical Research Center](https://qbrc.swmed.edu/) at UT Southwestern Medical Center. I also work as a research assistant in the [Department of Mathematical Sciences](https://math.utdallas.edu/) at the University of Texas at Dallas. This fall, I will start my PhD with the [Interdepartmental Program in Computational Biology and Bioinformatics](https://cbb.yale.edu/), which is part of the [Combined Program in the Biological and Biomedical Sciences](https://medicine.yale.edu/bbs/) at Yale University.
 
 As a budding biomedical informatician, my academic interests are diverse and include deep learning, natural language processing, and wearable devices, particularly as applied to problems in psychiatry. Broadly construed, biomedical informatics refers to the computational analysis and statistical interpretation of biological and clinical data on high-performance computing platforms. My prior research experience spans cancer biophysics, molecular radiation oncology, microfluidic single-cell analysis, statistical shape analysis, and electronic health record analysis.
 
