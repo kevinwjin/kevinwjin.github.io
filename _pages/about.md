@@ -17,3 +17,7 @@ I was born and partially raised in Dallas, TX but spent much of my childhood in 
 Outside of academia, I am also passionately interested in international relations (particularly East Asian geopolitics), military history, and investigative journalism. My favorite news/opinion publications are [*The Economist*](https://www.economist.com/), [*The New Yorker*](https://newyorker.com/), [*Reuters*](https://reuters.com/), [*The Associated Press*](https://apnews.com/), [*BBC News*](https://bbc.co.uk/news), [*The New York Times*](https://nytimes.com/), [*Bloomberg*](https://bloomberg.com/), [*The Washington Post*](https://washingtonpost.com/), [*The Atlantic*](https://theatlantic.com/), [*NPR*](https://npr.org/), and [*Nikkei Asia*](https://asia.nikkei.com). I also follow the work of the [Brookings Institution](https://www.brookings.edu/), the [Carnegie Endowment for International Peace](https://carnegieendowment.org/), and the [Center for Strategic and International Studies](https://www.csis.org/).
 
 Ways that I add flavor to my life include reading a truly inordinate amount of news and Wikipedia, writing fiction and non-fiction, studying languages (mostly Japanese), constantly trying new recipes, playing video games, and [practicing kendo](https://yalekendo.sites.yale.edu/).
+
+<img src="../images/kendou_man.png" alt="Man" width="50%" /><img src="../images/kendou_woman.png" alt="Woman" width="50%" />
+
+<img src="../images/kendo.png" style = "transform: scaleX(-1);" alt="Men!" width="50%"/><img src="../images/kendo.png" alt="Men!!" width="50%"/>
