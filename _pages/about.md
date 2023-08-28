@@ -18,6 +18,6 @@ Outside of academia, I am also passionately interested in international relation
 
 Ways that I add flavor to my life include reading a truly inordinate amount of news and Wikipedia, writing fiction and non-fiction, studying languages (mostly Japanese), constantly trying new recipes, playing video games, and [practicing kendo](https://yalekendo.sites.yale.edu/).
 
-<img src="../images/kendou_man.png" alt="Man" width="50%" /><img src="../images/kendou_woman.png" alt="Woman" width="50%" />
+<p align="center"><img src="../images/kendou_man.png" alt="Man" width="30%" /><img src="../images/kendou_woman.png" alt="Woman" width="30%" /></p>
 
 <img src="../images/kendo.png" style = "transform: scaleX(-1);" alt="Men!" width="50%"/><img src="../images/kendo.png" alt="Men!!" width="50%"/>
