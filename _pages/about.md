@@ -18,6 +18,6 @@ Outside of academia, I am also passionately interested in international relation
 
 Ways that I add flavor to my life include reading a truly inordinate amount of news, cooking way too much Italian food, and sparring with other shinai-wielding fanatics at the [Yale Kendo Club](https://yalekendo.sites.yale.edu/).
 
-<p align="center"><img src="../images/kendou_man.png" alt="Man" width="20%" /><img src="../images/kendou_woman.png" alt="Woman" width="20%" /></p>
+<p align="center"><img src="../images/kendou_man.png" alt="Man" width="20%" /><img src="../images/kendou_woman.png" alt="Woman" width="20%" /><img src="../images/kendou_meisou_man.png" alt="Meisou Man" width="17%" /><img src="../images/kendou_meisou_woman.png" alt="Meisou Woman" width="17%" /></p>
 
-<p align="center"><img src="../images/kendo.png" style = "transform: scaleX(-1);" alt="Men!" width="40%"/><img src="../images/kendo.png" alt="Men!!" width="40%"/></p>
+<p align="center"><img src="../images/sports_juu_kendou.png"  alt="Men!" width="40%"/><img src="../images/kendo.png" alt="Men!!" width="40%"/></p>
